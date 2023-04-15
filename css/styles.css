@@ -1,0 +1,241 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    background: #FFFFFF;
+}
+
+head {
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;    
+}
+
+h1 {
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+}
+
+h3 {
+    width: 145px;
+    height: 19px;
+    left: 278px;
+    top: 1925px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+p {
+    display: inline-block;
+    width: 130px;
+    height: 19px;
+    left: 285px;
+    top: 1954px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+address {
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.nav-bar a {
+    width: 57px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.link-nav:hover {
+    color: #2196F3 ;
+}
+
+.link-button {
+    width: 128px;
+    height: 38px;
+    left: 576px;
+    top: 174px;
+    background: #F5F4FA;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;    
+}
+
+.link-button:hover {
+    background: #2196F3;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.studio {
+    width: 1600px;
+    height: 600px;
+    left: 3px;
+    top: 69px;
+    background: #2F303A;
+}
+
+.button-studio {
+    background: #2196F3;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    left: 738px;
+    top: 419px;
+}
+
+.button-studio:hover {
+    background-color: #188CE8;
+    width: 200px;
+    height: 50px;
+    left: 738px;
+    top: 419px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+.about {
+        background: #E5E5E5;
+}
+
+.wwd-title {
+    width: 198px;
+    height: 42px;
+    left: 701px;
+    top: 969px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team {
+    display: inline-block;
+    width: 1600px;
+    height: 648px;
+    left: 0px;
+    top: 1449px;
+    background: #F5F4FA;
+}
+
+.team-tittle {
+    width: 165px;
+    height: 42px;
+    left: 718px;
+    top: 1543px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.footer {
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+    background: #2F303A;
+}
+
+.footer-list {
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 2197px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.link-mail {
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1782px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.link-tel {
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1812px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);    
+}
+
+.project-img {
+    box-sizing: border-box;
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 262px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    display: inline-block;
+}
+
+.project-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+ 
