@@ -307,6 +307,7 @@ header {
 .project-img {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     background: var(--color-w);
     gap: 30px;
 }
