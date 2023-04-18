@@ -18,16 +18,7 @@ body {
     background: var(--brand-color-1);
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-}
-
-ul {
-    list-style: none;
-}
-
-head {
-    height: 80px;
-    left: 0px;
-    top: 0px;
+    width: 100%;
 }
 
 h1 {
@@ -39,6 +30,7 @@ h1 {
     width: 700px;
     text-align: center;
 }
+
 
 h3 {
     font-weight: 700;
@@ -82,11 +74,11 @@ header {
     justify-content: space-between;
     padding: 0 200px;
     height: 80px;
-    width: 1600px;
+    width: 100%;
 }
 
 .container {
-    width: 1200px;
+    width: 100%;
 }
 
 .header-nav {
@@ -168,7 +160,7 @@ header {
     align-items: center;
     background: var(--color-4);
     height: 600px;
-    width: 1600px;
+    width: 100%;
 }
 
 .button-studio {
@@ -190,8 +182,8 @@ header {
 }
 
 .about {
-    width: 1600px;
-    padding: 95px 200px;
+    width: 100%;
+    padding: 94px 200px;
 }
 
 .about-ul {
@@ -201,8 +193,8 @@ header {
 }
 
 .what-we-do {
-    width: 1600px;
-    padding: 0 200px 94px 200px;
+    width: 100%;
+    padding: 94px 200px;
 }
 
 .class-title {
@@ -214,6 +206,7 @@ header {
     letter-spacing: 0.03em;
     color: var(--color-2);
     padding-bottom: 55px;
+    margin: 0;
 }
 
 .wwd-content {
@@ -223,7 +216,7 @@ header {
 }
 
 .our-team {
-    width: 1600px;
+    width: 100%;
     padding: 94px 200px;
     background: var(--color-teambg);
 }
@@ -242,7 +235,7 @@ header {
 }
 
 .footer {
-    width: 1600px;
+    width: 100%;
     height: 252px;
     padding: 60px 200px;
     background: var(--color-4);
@@ -274,7 +267,7 @@ header {
 }
 
 .section-buttons {
-    width: 1600px;
+    width: 100%;
     padding: 106px 200px 50px 200px;
 
 }
@@ -307,7 +300,7 @@ header {
 
 
 .projects {
-    width: 1600px;
+    width: 100%;
     padding: 0 200px 82px 200px;
 }
 
